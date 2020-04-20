@@ -9,7 +9,7 @@ The model consists of two steps:
 1. Propagative Bloch modes parameters calculation
 2. Application of model formulas
 
-The Bloch modes effective indices (propagation constants, <img src="https://render.githubusercontent.com/render/math?math=\beta">'s) are defined in an infinite periodic medium, their reflection coefficients -- at the intersect between two media.
+The Bloch modes effective indices (essentially, propagation constants, <img src="https://render.githubusercontent.com/render/math?math=\beta">'s, devided by <img src="https://render.githubusercontent.com/render/math?math=k_0">) are defined in an infinite periodic medium, their reflection coefficients -- at the intersect between two media.
 
 ![](blochmodes.png)
 
