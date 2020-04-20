@@ -11,8 +11,8 @@ I = find(Q{2}>3e7);
 figure
 subplot(1,2,1)
 hold on
-plot(kx/2/pi, ld0{2}, 'g-', 'LineWidth', 2)
-plot(kx(I)/2/pi, ld0{2}(I), 'go', 'MarkerSize', 8, 'MarkerFaceColor', 'g')
+plot(kx/2/pi, 1./ld0{2}, 'g-', 'LineWidth', 2)
+plot(kx(I)/2/pi, 1./ld0{2}(I), 'go', 'MarkerSize', 8, 'MarkerFaceColor', 'g')
 ylabel 'a/\lambda'
 xlabel 'k_xa/(2\pi)'
 
