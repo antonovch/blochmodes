@@ -3,8 +3,6 @@
 This repository provides a basic example of Bloch-mode-based model presented in:
 > Ovcharenko, A. I., Blanchard, C., Hugonin, J.-P., & Sauvan, C. (2020). Bound states in the continuum in symmetric and asymmetric photonic crystal slabs. Physical Review B, 101(15), 155303. https://doi.org/10.1103/PhysRevB.101.155303
 
-If this was of any use for your research, we ask you to kindly cite all the sources. Thank you.
-
 The model consists of two steps: 
 1. Propagative Bloch modes parameters calculation
 2. Application of model formulas
